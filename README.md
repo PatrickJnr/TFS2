@@ -1,5 +1,3 @@
-My work on Porting TF2 to S2 - Very WIP.
+My work on porting TF2 Assets to s&box [should work with HLA]
 
-Currently Working On - 2fort
-
-Will start working on this again soon - 2022
+I'll be porting over mainly the models and materails
