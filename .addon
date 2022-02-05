@@ -1,0 +1,13 @@
+{
+  "Title": "TF2 Source 2 - Compiled",
+  "Type": "game",
+  "Org": "local",
+  "Ident": "TF2S2-Compiled",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": "code",
+  "RootNamespace": "Sandbox"
+}
